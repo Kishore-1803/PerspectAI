@@ -12,7 +12,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Configure Gemini API
-configure(api_key="AIzaSyA0AFjEHmFR8XXrgCmL0eq3RleE84YXJoY")
+configure(api_key="API_KEY")
 gemini = GenerativeModel("gemini-2.0-flash")  
 
 # Load embedding model
