@@ -12,7 +12,7 @@ Perespect AI is an AI-driven resume analysis tool that helps job seekers optimiz
 
 ## 🛠️ Tech Stack  
 - **Frontend:** React.js (Material UI for styling)  
-- **Backend:** Node.js with Express.js (or Flask if using Python)  
+- **Backend:** Flask  
 - **AI & NLP:** Gemini API + Hugging Face for text analysis  
 - **Vector Database:** ChromaDB for Retrieval-Augmented Generation (RAG)  
 
