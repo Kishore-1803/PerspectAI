@@ -21,7 +21,8 @@ Perespect AI is an AI-driven resume analysis tool that helps job seekers optimiz
 📦 Perespect-AI  
 ┣ 📂 frontend/      
 ┣ 📂 backend/          
-┣ 📂 chromadb/           
+┣ 📂 chromadb/
+```         
 
 ## ⚡ Usage  
 1. **Upload your resume (PDF/DOCX).**  
